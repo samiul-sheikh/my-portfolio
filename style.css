@@ -57,6 +57,10 @@ section{
     background-position: right;
 }
 
+#experience-title{
+    padding-left: 75px;
+}
+
 .ex-highlight{
     color: fuchsia;
 }
@@ -82,7 +86,6 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
-    border-top-left-radius: 10px;
 }
 
 #begineer-web{

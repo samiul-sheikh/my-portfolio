@@ -3,7 +3,6 @@ body{
     margin: 0;
 }
 
-
 h1{
     font-size: 50px;
 }
@@ -88,11 +87,12 @@ section{
     border-image-slice: 1;
 }
 
-#begineer-web{
+#beginner-web{
     border-left: 7px solid;
     border-image: linear-gradient(45deg, blue, cyan);
     border-image-slice: 1;
 }
+
 footer p{
     text-align: center;
 }
